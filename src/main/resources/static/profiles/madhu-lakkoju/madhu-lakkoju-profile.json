@@ -1,0 +1,95 @@
+{
+  "profile": {
+    "name": "Madhu Lakkoju",
+    "dob": "19-03-2000",
+    "myImage": "./images/madhu.jpg",
+    "about": "Aspiring Software Developer",
+    "resumeUrl": "https://drive.google.com/file/d/1T--_NIMeJ8KkfOsKxjRaHA7evcKAlt6i/preview",
+    "contactInfo": {
+      "linkedin": "https://www.linkedin.com/in/madhu-lakkoju/",
+      "github": "https://github.com/madhulakkoju",
+      "email": "madhu.ml193@gmail.com",
+      "phone": "+91 8686156086",
+      "fb": "https://www.facebook.com/madhu.lakkoju.71/",
+      "twitter": "#!"
+    },
+    "address": "30-265/11/51, Sainathapuram,<br/>A.S.Rao Nagar, ECIL<br/>Hyderabad, Telangana, IN",
+    "education": [
+      {
+        "schoolname": "GRIET, Hyd",
+        "score": 86.1,
+        "grade": "BTech in CSE"
+      }
+    ],
+    "work": [
+      {
+        "company": "TCS",
+        "role": "Software Dev Intern",
+        "employmentType": "Internship",
+        "from": "March 2021",
+        "to": "May 2021",
+        "description": "Worked on a project with Angular UI and Java backend. Created a Chat service with Web Sockets, Restful web services with Resteasy and frontend.",
+        "techstack": "Java, Angular, REST Services",
+        "documentationLink": "",
+        "bonafideLink": "",
+        "imageLink": "./images/tcs_internship_certificate.jpg"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Plant Species and Growth analysis",
+        "repo": "https://github.com/madhulakkoju/PlantGrowthAnalysisImageProcessingML",
+        "url": "",
+        "description": "The Project deals with the images of the leaves of different plants. The Leaves are categorized into different growth phases. These phases are tagged with the images and their corresponding species names. These images are fed to machine learning algorithm which performs a voting type of classification among prominent algorithms and predicts the species name and the growth phase.",
+        "imageLink": "./images/Image_PlantGrowthAnalysis.jpg",
+        "techStack": "Python; OpenCV; Machine Learning",
+        "documentationLink": ""
+      },
+      {
+        "name": "Text Sentiment Analysis",
+        "repo": "",
+        "url": "",
+        "description": "",
+        "imageLink": "./images/SentimentAnalysis.png",
+        "techStack": "Python, Machine Learning, OpenCV, Tkinter",
+        "documentationLink": ""
+      },
+      {
+        "name": "Rental Data Manager",
+        "repo": "",
+        "url": "",
+        "description": "A stand alone application using Java Swing and sqlite database support which helps in managing the Rental data of a landlord about rooms availability, payments, power bills, etc.,. This helps in managing the finance generated and expenses. This can be used as a ledger for all the data to be stored systematically. Automatic quote generation and emailing to the tenants is also to be added.",
+        "imageLink": "./images/rentalmanager.png",
+        "techStack": "Java, JDBC, Applets",
+        "documentationLink": ""
+      }
+    ],
+    "certifications": [
+      {
+        "tech": "Python",
+        "inst": "PCAP"
+      },
+      {
+        "tech": "Python",
+        "inst": "PCAP"
+      },
+      {
+        "tech": "Python",
+        "inst": "PCAP"
+      },
+      {
+        "tech": "Python",
+        "inst": "PCAP"
+      },
+      {}
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "Microsoft Power platform",
+      "JavaScript",
+      "Web Development",
+      "Data Structures"
+    ]
+  }
+}
